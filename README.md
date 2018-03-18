@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi human!
+i like to join
